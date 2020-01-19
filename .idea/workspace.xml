@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46303378-adfc-4396-8ea9-e6c9515aad46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WLMVhfhbzx3O0xS9pMy3MOHOyY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LG\Desktop\sparta\myproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ChatBot">
+    <configuration name="ChatBot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChatBot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ChatBotModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChatBotModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cafe_closetime_bot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\LG\Desktop\sparta\myproject\ChatBot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ChatBot" />
+        <item itemvalue="Python.ChatBotModel" />
+        <item itemvalue="Python.cafe_closetime_bot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46303378-adfc-4396-8ea9-e6c9515aad46" name="Default Changelist" comment="" />
+      <created>1578924447513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578924447513</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="912" height="254" key="GridCell.Tab.0.bottom" timestamp="1579411137294">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="912" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1579411137294" />
+    <state width="912" height="254" key="GridCell.Tab.0.center" timestamp="1579411137293">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="912" height="254" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1579411137293" />
+    <state width="912" height="254" key="GridCell.Tab.0.left" timestamp="1579411137293">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="912" height="254" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1579411137293" />
+    <state width="912" height="254" key="GridCell.Tab.0.right" timestamp="1579411137294">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="912" height="254" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1579411137294" />
+    <state width="912" height="316" key="GridCell.Tab.1.bottom" timestamp="1579087667027">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="912" height="316" key="GridCell.Tab.1.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1579087667027" />
+    <state width="912" height="316" key="GridCell.Tab.1.center" timestamp="1579087667026">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="912" height="316" key="GridCell.Tab.1.center/0.0.1920.1035@0.0.1920.1035" timestamp="1579087667026" />
+    <state width="912" height="316" key="GridCell.Tab.1.left" timestamp="1579087667026">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="912" height="316" key="GridCell.Tab.1.left/0.0.1920.1035@0.0.1920.1035" timestamp="1579087667026" />
+    <state width="912" height="316" key="GridCell.Tab.1.right" timestamp="1579087667027">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="912" height="316" key="GridCell.Tab.1.right/0.0.1920.1035@0.0.1920.1035" timestamp="1579087667027" />
+    <state x="1028" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1579085927043">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="1028" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1035@0.0.1920.1035" timestamp="1579085927043" />
+    <state width="750" height="530" key="javadoc.popup" timestamp="1579087719402">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="750" height="530" key="javadoc.popup/0.0.1920.1035@0.0.1920.1035" timestamp="1579087719402" />
+    <state x="1018" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1579088268186">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="1018" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1035@0.0.1920.1035" timestamp="1579088268186" />
+  </component>
+</project>
