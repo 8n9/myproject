@@ -23,7 +23,7 @@ class TelegramBot:
 
 class BotCafe(TelegramBot):
     def __init__(self):
-        self.token = '954121948:AAECe6nbZtbfgBXd9mnRGwH7u0HZpCyvBrQ'
+        self.token = #####
         TelegramBot.__init__(self, '카페영업시간', self.token)
         self.updater.stop()
 
